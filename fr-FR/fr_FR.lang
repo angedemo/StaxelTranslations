@@ -353,7 +353,7 @@ fishing.tooFarAway=Cet endroit est trop loin
 //[Reference] 'Press {0-gameLogicalButton} to leave bed'
 hintText.bed=Appuyez sur {0-gameLogicalButton} pour sortir du lit
 //[Reference] 'Plants won't grow here'
-hintText.cantPlantHere=Les plantes ne peut pas pousser ici
+hintText.cantPlantHere=Les plantes ne peuvent pas pousser ici
 //[Reference] 'Press {0-gameLogicalButton} to leave chair'
 hintText.chair=Appuyez sur {0-gameLogicalButton} pour vous lever de la chaise
 //[Reference] 'Charge: {0:P1-chargeLevel}, Right Click or Left Trigger to Cancel'
